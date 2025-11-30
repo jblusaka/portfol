@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
-import { MoonIcon, SunIcon, MenuIcon, XIcon } from 'lucide-react';
+import { MoonIcon, SunIcon, MenuIcon } from 'lucide-react';
 import { useTheme } from '@/components/theme-provider';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 

@@ -104,7 +104,7 @@ const About = () => {
               I'm John Banda, a BCA graduate from Shoolini University with a unique blend of full stack development expertise and business intelligence passion. I transform complex problems into elegant, data-driven solutions.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              With hands-on experience across web development, data visualization, and business automation, I'm pursuing advanced studies in Business Analytics to deepen my strategic impact. I'm actively exploring global opportunities to bring innovative tech solutions to organizations worldwide.
+              With hands-on experience across web development, data visualization, and business automation, I am working toward advancing my skills in Business Analytics to deepen my strategic impact. I'm actively exploring global opportunities to bring innovative tech solutions to organizations worldwide.
             </p>
           </motion.div>
 

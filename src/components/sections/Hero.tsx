@@ -131,7 +131,7 @@ const Hero = () => {
               <div className="absolute -inset-1 bg-gradient-to-r from-blue-500 to-cyan-400 rounded-3xl opacity-20 blur-xl" />
 
               <img
-                src="/images/mark1.jpg"
+                src="/images/hero1.jpg"
                 alt="John Banda"
                 className="w-80 h-80 lg:w-96 lg:h-96 rounded-3xl object-cover shadow-2xl border-4 border-white/80 backdrop-blur-sm relative z-10"
               />
